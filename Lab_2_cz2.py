@@ -1,5 +1,4 @@
 #zadanie8
-from tokenize import endpats
 
 x = -4
 while x <= 4:
